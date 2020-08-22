@@ -1,9 +1,11 @@
 Pro-request:
 ===========
 
-1.EFS File System on the AWS Regin( to mounet the WEB Content)
+1.EFS File System on the AWS Region( to mounet the WEB Content)
 
 2.SSH Key to be created on the home foler
+
+3. AMI to be replaced accoding to the AWS Region
 
 
 
